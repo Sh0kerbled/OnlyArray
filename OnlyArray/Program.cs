@@ -18,6 +18,18 @@ namespace OnlyArray
                     index++;
                 }
             }
+
+            for (int i = 0; i < index; i++)
+            {
+                if(i < index - 1)
+                {
+                    Console.Write($"{newArray[i]}, ");
+                }
+                else
+                {
+                    Console.Write(newArray[i]);
+                }
+            }
         }
     }
 }
