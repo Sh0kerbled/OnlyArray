@@ -1,0 +1,16 @@
+C:\Users\Dauren\source\repos\OnlyArray\OnlyArray\bin\Debug\net5.0\OnlyArray.exe
+C:\Users\Dauren\source\repos\OnlyArray\OnlyArray\bin\Debug\net5.0\OnlyArray.deps.json
+C:\Users\Dauren\source\repos\OnlyArray\OnlyArray\bin\Debug\net5.0\OnlyArray.runtimeconfig.json
+C:\Users\Dauren\source\repos\OnlyArray\OnlyArray\bin\Debug\net5.0\OnlyArray.runtimeconfig.dev.json
+C:\Users\Dauren\source\repos\OnlyArray\OnlyArray\bin\Debug\net5.0\OnlyArray.dll
+C:\Users\Dauren\source\repos\OnlyArray\OnlyArray\bin\Debug\net5.0\ref\OnlyArray.dll
+C:\Users\Dauren\source\repos\OnlyArray\OnlyArray\bin\Debug\net5.0\OnlyArray.pdb
+C:\Users\Dauren\source\repos\OnlyArray\OnlyArray\obj\Debug\net5.0\OnlyArray.csproj.AssemblyReference.cache
+C:\Users\Dauren\source\repos\OnlyArray\OnlyArray\obj\Debug\net5.0\OnlyArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dauren\source\repos\OnlyArray\OnlyArray\obj\Debug\net5.0\OnlyArray.AssemblyInfoInputs.cache
+C:\Users\Dauren\source\repos\OnlyArray\OnlyArray\obj\Debug\net5.0\OnlyArray.AssemblyInfo.cs
+C:\Users\Dauren\source\repos\OnlyArray\OnlyArray\obj\Debug\net5.0\OnlyArray.csproj.CoreCompileInputs.cache
+C:\Users\Dauren\source\repos\OnlyArray\OnlyArray\obj\Debug\net5.0\OnlyArray.dll
+C:\Users\Dauren\source\repos\OnlyArray\OnlyArray\obj\Debug\net5.0\ref\OnlyArray.dll
+C:\Users\Dauren\source\repos\OnlyArray\OnlyArray\obj\Debug\net5.0\OnlyArray.pdb
+C:\Users\Dauren\source\repos\OnlyArray\OnlyArray\obj\Debug\net5.0\OnlyArray.genruntimeconfig.cache
