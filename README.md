@@ -45,3 +45,5 @@ for (int i = 0; i < index; i++)
                 }
             }
 ```
+
+![flowchart](https://github.com/Sh0kerbled/OnlyArray/blob/master/Снимок%20экрана%202024-11-13%20134317.png)
